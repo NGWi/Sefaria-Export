@@ -13,6 +13,8 @@ From the parent of the downloaded `dump` folder, run:
 
 This will create (or overwrite) a mongo database called `sefaria`.
 
+More details available [here](https://github.com/Sefaria/Sefaria-Project#8-put-some-texts-in-your-database)
+
 For Sefaria source code see [Sefaria-Project](https://github.com/Sefaria/Sefaria-Project).
 
 ### Contents
